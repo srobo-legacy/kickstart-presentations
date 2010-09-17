@@ -14,10 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   inkscape:export-filename="/home/chris/public_html/srweb/images/content/token_ring_diagram.png"
+   inkscape:export-filename="/home/rob/sr/dev/presentations/elec/token_ring_diagram.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="token_ring_diagram.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -161,14 +161,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="312.83167"
-     inkscape:cy="210.74133"
+     inkscape:cy="208.72102"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="950"
+     inkscape:window-height="725"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -383,22 +383,6 @@
        id="path3714"
        style="fill:#595959;fill-opacity:1;stroke:#6a6a6a;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc" />
-    <text
-       xml:space="preserve"
-       style="font-size:30.46425629px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#0081dc;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="567.39886"
-       y="203.73413"
-       id="text3716"><tspan
-         sodipodi:role="line"
-         id="tspan3718"
-         x="567.39886"
-         y="203.73413"
-         style="font-size:20px;text-align:center;text-anchor:middle">Power</tspan><tspan
-         sodipodi:role="line"
-         x="567.39886"
-         y="228.73413"
-         id="tspan3720"
-         style="font-size:20px;text-align:center;text-anchor:middle">Board</tspan></text>
     <rect
        transform="matrix(0,1,-1,0,0,0)"
        y="-502.29489"
@@ -443,77 +427,5 @@
          x="404.86566"
          id="tspan3734"
          sodipodi:role="line">OUT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#0081dc;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="165.57143"
-       y="77.076469"
-       id="text3802"><tspan
-         sodipodi:role="line"
-         id="tspan3804"
-         x="165.57143"
-         y="77.076469"
-         style="font-size:18px;fill:#0081dc;fill-opacity:1">io[0]</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#0081dc;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="89.857147"
-       y="262.36221"
-       id="text3810"><tspan
-         sodipodi:role="line"
-         id="tspan3812"
-         x="89.857147"
-         y="262.36221"
-         style="font-size:18px;fill:#0081dc;fill-opacity:1">motor[0]</tspan></text>
-    <text
-       id="text3814"
-       y="379.50507"
-       x="419.14282"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#0081dc;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       xml:space="preserve"><tspan
-         style="font-size:18px;fill:#0081dc;fill-opacity:1"
-         y="379.50507"
-         x="419.14282"
-         id="tspan3816"
-         sodipodi:role="line">motor[1]</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;fill-opacity:1"
-       d="M 83.842661,66.943254 C 59.089644,90.500911 42.178913,122.16356 36.365492,155.83668 c -2.127464,12.32293 -2.807046,24.89519 -2.020305,37.37564"
-       id="path4466"
-       inkscape:path-effect="#path-effect4468"
-       inkscape:original-d="M 83.842661,66.943254 C 64.649763,85.126 37.375644,118.46103 36.365492,155.83668 c -1.010153,37.37564 -2.020305,37.37564 -2.020305,37.37564"
-       transform="translate(73.607154,43.395346)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;fill-opacity:1"
-       d="m 83.842661,322.51185 c 9.405842,14.43386 22.470709,26.39061 37.457149,34.88843 14.98644,8.49781 31.73055,13.31034 48.40582,17.6395 l 105.05586,27.27412"
-       id="path4658"
-       inkscape:path-effect="#path-effect4660"
-       inkscape:original-d="m 83.842661,322.51185 c 70.710679,47.47717 -19.192898,25.25381 85.862969,52.52793 105.05586,27.27412 105.05586,27.27412 105.05586,27.27412"
-       transform="translate(73.607154,43.395346)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;fill-opacity:1"
-       d="M 437.39605,87.146305 C 401.83431,68.970381 364.10744,55.03523 325.26912,45.730051 295.77688,38.664076 265.64669,34.263038 235.36554,32.598068"
-       id="path4846"
-       inkscape:path-effect="#path-effect4848"
-       inkscape:original-d="M 437.39605,87.146305 C 345.47217,49.770661 416.18285,58.862034 325.26912,45.730051 234.35539,32.598068 235.36554,32.598068 235.36554,32.598068"
-       transform="translate(73.607154,43.395346)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;fill-opacity:1"
-       d="m 436.3859,386.15146 c 24.31074,-12.04966 46.59963,-28.16624 65.65992,-47.47717 7.41504,-7.51255 14.32004,-15.78379 18.40899,-25.51527 4.08894,-9.73148 4.82451,-20.49765 4.82451,-31.05327 l 0,-10.10153"
-       id="path5034"
-       inkscape:path-effect="#path-effect5036"
-       inkscape:original-d="m 436.3859,386.15146 c 54.54824,-38.3858 42.42641,9.09137 65.65992,-47.47717 23.2335,-56.56854 23.2335,-52.52793 23.2335,-56.56854 0,-4.04061 0,-10.10153 0,-10.10153"
-       transform="translate(73.607154,43.395346)" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="432.2113"
-       y="92.155853"
-       id="text5222"><tspan
-         sodipodi:role="line"
-         id="tspan5224"
-         x="432.2113"
-         y="92.155853"
-         style="font-size:16px">Token</tspan></text>
   </g>
 </svg>
